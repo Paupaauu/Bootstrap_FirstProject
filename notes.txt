@@ -1,0 +1,6 @@
+https://getbootstrap.com/docs/5.3/getting-started/download/
+
+Opción CDN via jsDelivr
+copiar el primer link y incluirlo en la cabecera del html
+copiar la segunda linea de codig y pegarlo dentro del body al final del todo
+ 
